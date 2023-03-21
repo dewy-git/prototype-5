@@ -1223,6 +1223,7 @@ MonoBehaviour:
   - {fileID: 5756900953239716273, guid: bcfa06b2256054affb3a6b389b2f16eb, type: 3}
   scoreText: {fileID: 1924832891}
   gameOverText: {fileID: 1291226836}
+  restartButton: {fileID: 900018310}
   isGameActive: 0
 --- !u!1 &1924832889
 GameObject:
